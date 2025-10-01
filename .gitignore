@@ -1,0 +1,7 @@
+fdc_outputs/ 
+fdc_parquet/ 
+fdc_search.db 
+*.csv 
+*.parquet 
+__pycache__/ 
+.venv/ 

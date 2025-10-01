@@ -1,0 +1,5 @@
+streamlit==1.37.0
+pandas>=2.1
+numpy>=1.26
+pyarrow>=14.0
+rapidfuzz>=3.6
